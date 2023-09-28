@@ -1,5 +1,5 @@
 
-# Welcome to TikiTrainer 🏃‍♀️
+# Welcome to Tiki Trainer 🏃‍♀️
 
 ## TikiTrainer is your personalized running companion. This app allows you to:
 
