@@ -1,7 +1,7 @@
 
 # Welcome to Tiki Trainer 🏃‍♀️
 
-## TikiTrainer is your personalized running companion. This app allows you to:
+## Tiki Trainer is your personalized running companion. This app allows you to:
 
 *🏆 Receive weekly workouts designed by an experienced coach.
 
@@ -11,4 +11,4 @@
 
 *🌟 Keep tabs on your running goals and achievements.
 
-## Take one step closer to your running goals with TikiTrainer!
+## Take one step closer to your running goals with Tiki Trainer!
